@@ -1,3 +1,5 @@
+require 'uri'
+
 class URI::YouTube < URI::HTTP
 
   HOST = "www.youtube.com"
