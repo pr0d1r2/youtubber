@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'json', '=1.4.6'
+gem 'json', '1.5.5'
 gem 'youtube-g', '0.5.0'
 
 group :development do
